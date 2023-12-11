@@ -1,3 +1,2 @@
-## Análise e Desenvolvimento de Sistemas - Estácio de Sá
-# Python Estruturado
+## Python Estruturado
  
